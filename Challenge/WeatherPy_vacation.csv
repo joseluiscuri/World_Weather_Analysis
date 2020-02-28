@@ -1,35 +1,123 @@
 City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
-8,Nome,US,1.4,Clear,64.5,-165.41,Red Moose
-33,Khatanga,RU,0.1,Clouds,71.97,102.5,"""Khatanga"""
-35,Umea,SE,8.6,Clouds,63.83,20.26,Scandic Plaza Umeå
-45,Kauhajoki,FI,8.01,Clear,62.43,22.18,Kauhajoen Krouvi
-61,Baruun-Urt,MN,7.21,Clear,46.68,113.28,tansag hotel
-69,Pevek,RU,8.65,Snow,69.7,170.31,Munitsipal'naya Gostinitsa
-77,Lac Du Bonnet,CA,8.01,Clouds,50.25,-96.06,The Lakeview Inn
-86,Yugorsk,RU,9.25,Clear,61.31,63.33,Guest House Sibirskaya
-95,Batagay-Alyta,RU,5.92,Clear,67.8,130.41,No Hotel around found
-119,Turukhansk,RU,8.28,Clear,65.82,87.98,No Hotel around found
-120,Chokurdakh,RU,6.3,Snow,70.63,147.92,No Hotel around found
-144,Batagay,RU,4.91,Clear,67.63,134.63,No Hotel around found
-166,Tiksi,RU,1.6,Clouds,71.69,128.87,Gostinitsa
-177,Saint-Augustin,CA,7.99,Clouds,51.23,-58.65,No Hotel around found
-234,Neryungri,RU,7.25,Clouds,56.67,124.65,Apartments Marksa 19/1
-258,Deputatskiy,RU,1.8,Clouds,69.3,139.9,No Hotel around found
-305,Sioux Lookout,CA,6.8,Clear,50.1,-91.92,Northumbrian Resort
-311,Yar-Sale,RU,6.94,Clouds,66.83,70.83,Gostinitsa Po Domashnemu
-319,Taksimo,RU,5.52,Clouds,56.34,114.88,"Gostinitsa ""Altan"""
-323,Berdigestyakh,RU,9.57,Clouds,62.1,126.7,No Hotel around found
-327,Leh,IN,7.68,Clouds,34.17,77.58,The Hotel Ladakh Continental - 3 Star Hotel In ladakh
-328,Teya,RU,9.64,Clear,60.38,92.63,No Hotel around found
-346,Vuktyl,RU,8.33,Clouds,63.86,57.31,No Hotel around found
-374,Leningradskiy,RU,8.26,Clouds,69.38,178.42,No Hotel around found
-405,Sovetskiy,RU,9.25,Clear,61.36,63.58,Uyut
-413,Dryden,CA,6.8,Clear,49.78,-92.75,Hide Away Motel
-414,Ostrovnoy,RU,9.95,Clear,68.05,39.51,No Hotel around found
-421,Yerbogachen,RU,5.36,Clouds,61.28,108.01,No Hotel around found
-438,Hailar,CN,7.48,Clouds,49.2,119.7,Hulunber Old City Homestay
-468,Cherskiy,RU,5.77,Snow,68.75,161.3,No Hotel around found
-474,Qaqortoq,GL,8.6,Clear,60.72,-46.03,Siniffik Inn
-490,Zhezkazgan,KZ,8.6,Mist,47.8,67.71,Kosmos
-500,Zyryanka,RU,4.03,Clouds,65.75,150.85,No Hotel around found
-530,Narsaq,GL,8.6,Clear,60.92,-46.05,Hotel Perlen
+0,Powell River,CA,46.4,Clouds,49.85,-124.54,Marine Inn
+7,Smithers,CA,35.6,Clouds,54.78,-127.17,Stork Nest Inn
+12,Kodiak,US,30.2,Clear,57.79,-152.41,Best Western Kodiak Inn and Convention Center
+14,Ushuaia,AR,46.4,Clouds,-54.8,-68.3,Las Lengas Hotel
+24,Nikolskoye,RU,28.4,Clouds,59.7,30.79,Gostinitsa Dlya Krupnogabaritnykh Gruzov
+39,Troitskoye,RU,26.37,Snow,52.98,84.68,No Hotel around found
+41,Punta Arenas,CL,50.0,Clouds,-53.15,-70.92,Hotel Finis Terrae
+46,Havre,FR,35.6,Clouds,49.58,0.33,Au Leclairlogis
+52,Dolinsk,RU,21.2,Clouds,47.35,142.8,No Hotel around found
+54,Hofn,IS,35.82,Snow,64.25,-15.21,Höfn Inn Guesthouse
+63,Bar Harbor,US,33.01,Clouds,44.39,-68.2,Acadia Inn
+72,Klaksvik,FO,33.8,Clouds,62.23,-6.59,Geilin Bed & Breakfast
+74,Temir,KZ,32.31,Clouds,49.14,57.13,No Hotel around found
+80,Lata,PT,50.0,Fog,40.16,-8.33,Terraços da Beira
+85,Bethel,US,32.0,Clouds,41.37,-73.41,Holiday Inn Danbury-Bethel @ I-84
+87,Asau,RO,30.99,Clouds,46.43,26.4,Pensiunea Sophia
+88,Fortuna,US,46.0,Clear,40.6,-124.16,THE REDWOOD RIVERWALK HOTEL
+90,Owosso,US,21.2,Clouds,43.0,-84.18,The PINES Country Inn
+101,Xining,CN,45.23,Clear,36.62,101.77,Qinghai Hengyu International Youth Hostel
+109,North Myrtle Beach,US,41.0,Clear,33.82,-78.68,Club Wyndham Towers on the Grove
+112,Talakan,RU,22.26,Snow,50.32,130.37,No Hotel around found
+116,Palmer,US,30.2,Clouds,42.16,-72.33,The Trainmaster's Inn
+117,Kyzyl-Suu,KG,33.31,Clouds,42.34,78.0,Hostel “Suusar”
+119,Kamenka,RU,45.0,Clouds,51.32,42.77,No Hotel around found
+122,Chubbuck,US,27.0,Clear,42.92,-112.47,Quality Inn
+130,Hammelburg,DE,35.01,Clouds,50.12,9.9,Altstadthotel & Stadtcafé
+134,Berlevag,NO,23.0,Clouds,70.86,29.09,Berlevåg camping & Appartement AS
+142,Goderich,CA,25.0,Snow,43.75,-81.72,Colborne Bed and Breakfast
+149,Komsomolskiy,UZ,39.2,Mist,40.43,71.72,Ikathouse
+154,Constantine,DZ,37.4,Clear,36.37,6.61,Hotel El Maghreb
+162,Vokhma,RU,32.27,Snow,58.93,46.76,No Hotel around found
+165,Mehamn,NO,24.8,Clouds,71.04,27.85,Mehamn Vandrerhjem
+173,Salamanca,ES,36.0,Clouds,40.83,-6.0,No Hotel around found
+182,Svetlogorsk,BY,31.71,Clear,52.63,29.73,Gostinitsa Oao Svetlogorskiy Zavod Zhbiik
+183,Houma,US,46.0,Clear,29.6,-90.72,Days Inn by Wyndham Houma LA
+184,Nianzishan,CN,23.52,Snow,47.52,122.88,Mountain City Hotel
+185,Ciugud,RO,28.4,Clouds,46.05,23.62,La Maison de Caroline
+192,Port Hardy,CA,42.8,Clouds,50.7,-127.42,Abusa by the sea
+195,Arkhipo-Osipovka,RU,44.55,Rain,44.37,38.52,Artemida
+198,Vostok,RU,21.88,Snow,46.49,135.88,No Hotel around found
+199,Peniche,PT,48.99,Fog,39.36,-9.38,Peniche Praia Bungalows & Camping
+202,Hammond,US,25.0,Clear,41.58,-87.5,"Courtyard by Marriott Chicago Southeast/Hammond, IN"
+206,Chihuahua,MX,48.99,Clouds,28.5,-106.0,No Hotel around found
+208,Onhaye,BE,34.0,Clouds,50.24,4.84,HOTEL AQUATEL
+213,Kamen-Rybolov,RU,28.13,Clouds,44.75,132.04,Yelena
+224,Warrington,GB,39.2,Clouds,53.39,-2.58,Paddington House Hotel
+237,Ayaviri,PE,39.49,Rain,-14.89,-70.59,Hostal Gemely
+241,Saint Simons,US,44.6,Clear,31.14,-81.39,The King and Prince Beach & Golf Resort
+242,Kameda,JP,44.6,Clouds,37.87,139.12,ホテル マリー
+252,Torbay,CA,25.0,Clouds,47.67,-52.73,See The Sea
+253,Roswell,US,37.4,Clear,34.02,-84.36,Wingate by Wyndham Alpharetta
+255,Norfolk,US,32.0,Clouds,42.17,-71.25,Four Points by Sheraton Norwood
+258,Svetlaya,RU,22.91,Clouds,46.54,138.33,No Hotel around found
+259,Decatur,US,30.2,Clear,39.84,-88.95,Country Hearth Inn & Suites Decatur
+261,Northam,GB,44.01,Rain,51.03,-4.22,Orchard Hill Hotel
+263,Tabas,IR,50.0,Clear,33.6,56.92,Aastan Ghods Inn
+265,Fernley,US,48.2,Clear,39.61,-119.25,Comfort Suites Fernley
+267,Korop,UA,33.33,Clouds,51.57,32.96,No Hotel around found
+269,Toropets,RU,28.27,Snow,56.5,31.64,Toropa
+275,Douglas,US,34.0,Clouds,41.3,-96.17,Residence Inn by Marriott Omaha West
+277,Lincoln,US,33.8,Clouds,40.8,-96.67,TownHouse Extended Stay Hotel Downtown
+278,Severo-Kurilsk,RU,25.21,Snow,50.68,156.12,No Hotel around found
+291,Margate,GB,39.0,Clouds,51.38,1.39,Botany Bay Hotel
+296,Boralday,KZ,35.6,Clouds,43.36,76.86,Бурундайские минеральные воды. Термальный источник
+298,Iberia,US,41.0,Clear,29.95,-91.75,OLIVE BRANCH COTTAGES
+299,Atbasar,KZ,28.11,Clouds,51.8,68.33,Гостиничный Комплекс Saad
+311,Hope,US,43.0,Clear,33.67,-93.59,Holiday Inn Express Hope
+314,Boddam,GB,35.01,Clouds,57.47,-1.78,Buchan Braes Hotel
+321,Bayangol,RU,20.01,Clouds,50.7,103.47,No Hotel around found
+323,Jodar,ES,46.0,Clear,37.84,-3.35,Hotel Ciudad de Jódar
+326,Wajima,JP,41.0,Clouds,37.4,136.9,Noto no Sho Ryokan
+327,Kyrnasivka,UA,26.01,Clouds,48.6,28.98,No Hotel around found
+331,Tyukhtet,RU,28.72,Snow,56.54,89.3,No Hotel around found
+334,Zheleznodorozhnyy,RU,36.0,Clouds,55.75,38.0,Guest House Ryabushinka
+336,Suslovo,RU,29.53,Snow,56.22,88.12,No Hotel around found
+337,Broome,US,24.01,Clouds,42.25,-75.83,Salisbury Chenango Shores
+338,Melenki,RU,33.1,Clouds,55.33,41.63,No Hotel around found
+341,Tikhvin,RU,26.38,Snow,59.65,33.53,Tikhvin hotel
+344,Mauguio,FR,46.0,Clouds,43.62,4.01,Le Mazet Chambre d'Hôtes
+352,Gornyy,RU,24.73,Snow,55.12,83.91,No Hotel around found
+360,Cottbus,DE,34.0,Snow,51.77,14.33,AHORN - Hotel & Restaurant
+361,Chingirlau,KZ,34.3,Clouds,51.09,54.08,No Hotel around found
+367,Uinskoye,RU,34.0,Snow,56.88,56.58,No Hotel around found
+372,Prince Rupert,CA,42.8,Clouds,54.32,-130.32,Pillsbury Guest House
+376,Konevo,RU,21.15,Clouds,62.12,39.32,No Hotel around found
+377,Taos,US,30.0,Clear,36.41,-105.57,Inn on La Loma Plaza
+378,Weiden,DE,34.0,Clouds,49.68,12.16,Hotel Post
+382,Washington,US,46.4,Clear,47.5,-120.5,Sky Meadows Bed & Breakfast
+387,Khor,RU,20.39,Clouds,47.89,134.95,No Hotel around found
+396,Talas,TR,42.8,Clouds,38.69,35.55,Arasta Residence
+397,Saryozek,KZ,27.43,Clear,44.36,77.98,Gostinitsa Nur
+400,Avera,US,41.0,Clear,33.19,-82.53,No Hotel around found
+406,Pulwama,IN,49.12,Clouds,33.87,74.9,Bait Al Zubair
+407,Shingu,JP,50.0,Clouds,33.73,135.98,Shingu Central Hotel
+409,Jaen,ES,46.0,Clear,38.0,-3.5,Hotel Puerta de la Luna
+412,Oktyabrskiy,RU,34.57,Rain,54.48,53.47,Гостиница Октябрьская
+413,Brae,GB,41.0,Clouds,60.4,-1.35,Drumquin Guest House
+416,Altona,DE,36.0,Clouds,53.55,9.93,Egon Hotel Hamburg City
+419,Vestmannaeyjar,IS,38.08,Snow,63.44,-20.27,Aska Hostel
+426,Kachiry,KZ,26.02,Snow,53.07,76.1,No Hotel around found
+434,Mizdah,LY,46.27,Clear,31.45,12.98,فندق مزدة الكبير
+446,Derzhavinsk,KZ,24.82,Clouds,51.1,66.32,Dostar
+447,Milton,US,37.4,Clear,34.13,-84.3,Children's Cottage Montessori
+448,Killam,CA,28.0,Clouds,52.78,-111.85,Killam Krossing Hotel
+456,Makhachkala,RU,42.01,Fog,42.98,47.5,Otel' Turist
+457,Jumla,NP,44.01,Clear,29.27,82.18,New Manasarowor Hotel
+462,Saint-Nazaire,FR,45.0,Rain,47.28,-2.2,Ibis Saint Nazaire Trignac
+463,Ozernovskiy,RU,26.38,Clouds,51.5,156.52,No Hotel around found
+470,Redcar,GB,37.99,Clouds,54.62,-1.06,Claxton Hotel - Book Direct for Best Prices
+471,Callaway,US,44.6,Clear,30.15,-85.57,Comfort Suites Panama City Near Tyndall Afb
+473,Filimonovo,RU,24.85,Snow,56.2,95.46,No Hotel around found
+475,Southbridge,US,30.99,Clouds,42.08,-72.03,"Scottish Inns Sturbridge, MA"
+479,Mehran,IR,42.8,Clouds,33.12,46.16,مجتمع رفاهی نور سپاه
+488,Verkhnechusovskiye Gorodki,RU,31.26,Snow,58.17,57.11,No Hotel around found
+489,Khorol,UA,35.38,Clouds,49.78,33.28,U Maryny
+496,Hovd,MN,35.56,Clouds,48.01,91.64,Buyant Hotel
+498,Bonavista,CA,24.94,Snow,48.65,-53.11,Sweet Sharons bnb
+507,Lyngseidet,NO,26.6,Clouds,69.58,20.22,Kjelkebakken Gard
+508,Napoleon,US,21.0,Clear,41.39,-84.13,Knights Inn Napoleon
+512,Tallahassee,US,41.0,Clouds,30.44,-84.28,DoubleTree by Hilton Hotel Tallahassee
+513,Murfreesboro,US,41.0,Clouds,35.85,-86.39,DoubleTree by Hilton Hotel Murfreesboro
+514,Yumen,CN,49.44,Clouds,40.28,97.2,No Hotel around found
