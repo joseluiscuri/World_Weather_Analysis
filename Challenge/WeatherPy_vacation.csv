@@ -1,0 +1,35 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+8,Nome,US,1.4,Clear,64.5,-165.41,Red Moose
+33,Khatanga,RU,0.1,Clouds,71.97,102.5,"""Khatanga"""
+35,Umea,SE,8.6,Clouds,63.83,20.26,Scandic Plaza Umeå
+45,Kauhajoki,FI,8.01,Clear,62.43,22.18,Kauhajoen Krouvi
+61,Baruun-Urt,MN,7.21,Clear,46.68,113.28,tansag hotel
+69,Pevek,RU,8.65,Snow,69.7,170.31,Munitsipal'naya Gostinitsa
+77,Lac Du Bonnet,CA,8.01,Clouds,50.25,-96.06,The Lakeview Inn
+86,Yugorsk,RU,9.25,Clear,61.31,63.33,Guest House Sibirskaya
+95,Batagay-Alyta,RU,5.92,Clear,67.8,130.41,No Hotel around found
+119,Turukhansk,RU,8.28,Clear,65.82,87.98,No Hotel around found
+120,Chokurdakh,RU,6.3,Snow,70.63,147.92,No Hotel around found
+144,Batagay,RU,4.91,Clear,67.63,134.63,No Hotel around found
+166,Tiksi,RU,1.6,Clouds,71.69,128.87,Gostinitsa
+177,Saint-Augustin,CA,7.99,Clouds,51.23,-58.65,No Hotel around found
+234,Neryungri,RU,7.25,Clouds,56.67,124.65,Apartments Marksa 19/1
+258,Deputatskiy,RU,1.8,Clouds,69.3,139.9,No Hotel around found
+305,Sioux Lookout,CA,6.8,Clear,50.1,-91.92,Northumbrian Resort
+311,Yar-Sale,RU,6.94,Clouds,66.83,70.83,Gostinitsa Po Domashnemu
+319,Taksimo,RU,5.52,Clouds,56.34,114.88,"Gostinitsa ""Altan"""
+323,Berdigestyakh,RU,9.57,Clouds,62.1,126.7,No Hotel around found
+327,Leh,IN,7.68,Clouds,34.17,77.58,The Hotel Ladakh Continental - 3 Star Hotel In ladakh
+328,Teya,RU,9.64,Clear,60.38,92.63,No Hotel around found
+346,Vuktyl,RU,8.33,Clouds,63.86,57.31,No Hotel around found
+374,Leningradskiy,RU,8.26,Clouds,69.38,178.42,No Hotel around found
+405,Sovetskiy,RU,9.25,Clear,61.36,63.58,Uyut
+413,Dryden,CA,6.8,Clear,49.78,-92.75,Hide Away Motel
+414,Ostrovnoy,RU,9.95,Clear,68.05,39.51,No Hotel around found
+421,Yerbogachen,RU,5.36,Clouds,61.28,108.01,No Hotel around found
+438,Hailar,CN,7.48,Clouds,49.2,119.7,Hulunber Old City Homestay
+468,Cherskiy,RU,5.77,Snow,68.75,161.3,No Hotel around found
+474,Qaqortoq,GL,8.6,Clear,60.72,-46.03,Siniffik Inn
+490,Zhezkazgan,KZ,8.6,Mist,47.8,67.71,Kosmos
+500,Zyryanka,RU,4.03,Clouds,65.75,150.85,No Hotel around found
+530,Narsaq,GL,8.6,Clear,60.92,-46.05,Hotel Perlen
